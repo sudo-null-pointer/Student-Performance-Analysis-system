@@ -1,0 +1,24 @@
+CLASS PERFORMANCE REPORT
+Generated on: 28-10-2026 18:14
+Total students: 8
+
+Subject-wise summary
+  Maths      avg 68.38  high 92   low 35   failed 1
+  Physics    avg 66.5   high 89   low 38   failed 1
+  Chemistry  avg 65.12  high 85   low 40   failed 0
+  English    avg 72.5   high 90   low 55   failed 0
+  Python     avg 76.62  high 95   low 48   failed 0
+
+Merit list
+  1. Priya Verma (S102) - 90.0% - A+
+  2. Aarav Sharma (S101) - 82.4% - A
+  3. Ananya Singh (S106) - 82.4% - A
+  4. Neha Kumari (S108) - 78.6% - B+
+  5. Sneha Gupta (S104) - 70.0% - B+
+  6. Vikram Yadav (S107) - 61.2% - B
+  7. Rohan Das (S103) - 50.0% - C
+  8. Karan Mehta (S105) - 44.0% - D
+
+Students needing attention
+  Rohan Das (S103) failed in: Physics
+  Karan Mehta (S105) failed in: Maths

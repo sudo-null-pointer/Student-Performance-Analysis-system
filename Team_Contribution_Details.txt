@@ -1,0 +1,32 @@
+STUDENT PERFORMANCE ANALYSIS SYSTEM
+Team Member Contribution Details
+Course: Computational Thinking and Programming (2026CSAE100)
+
+1. Ayush Sharma (S26CSEU3539)
+   Responsibility : Development of core logic, CSV file handling for data storage,
+                    and building the initial working prototype.
+   Functions      : load_data(), save_data(), add_student(), main program structure
+
+2. Ishaan Mani Tripathi (S26CSEU3555)
+   Responsibility : Building the computational engine to calculate averages and
+                    assign grades based on rule-based logic.
+   Functions      : total_marks(), percentage(), get_grade(), GRADE_TABLE,
+                    failed_subjects(), result_status()
+
+3. Shreyansh Gupta Batchu (S26CSEU3580)
+   Responsibility : Designing the interactive text menu and ensuring correct handling
+                    of incorrect or unexpected user inputs.
+   Functions      : main() menu, read_roll(), read_name(), read_marks(),
+                    update_marks(), delete_student()
+
+4. Atharv Gupta (S26CSEU3575)
+   Responsibility : Implementing the analysis module to identify highest/lowest
+                    performers and generate class summaries.
+   Functions      : rank_students(), subject_statistics(), class_analysis(),
+                    generate_report(), show_chart()
+
+5. Munna Kumar (S26CSEU3563)
+   Responsibility : Creating the algorithm/program design, leading software testing,
+                    and compiling the project report and presentation slides.
+   Work           : Algorithms and data design, test cases T1 to T20,
+                    weak subject logic (weak_subjects_of_student()), report and slides
